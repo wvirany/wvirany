@@ -13,7 +13,7 @@
 
 ### ⚡ See some of my work:
 
-- Check out my [personal website](https://wvirany.github.io)!
+- Check out my [personal website](https://wvirany.github.io)
 - I'm also on [Kaggle](https://www.kaggle.com/waltervirany)
 
 ### 📫 How to reach me:
