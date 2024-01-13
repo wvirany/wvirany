@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<!--
-**wvirany/wvirany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently completing my M.S. and B.S. at the University of Colorado Boulder
+- I'm studying Applied Mathematics and Computer Science, with a special interest in machine learning
 
-Here are some ideas to get you started:
+Check out my [personal website](https://wvirany.github.io)!
+
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
