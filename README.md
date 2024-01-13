@@ -15,6 +15,7 @@
 
 - Check out my [personal website](https://wvirany.github.io)
 - I'm also on [Kaggle](https://www.kaggle.com/waltervirany)
+- I make [YouTube](https://www.youtube.com/channel/UC3atzAmp5W9vJ2vnOKUYrvA) videos sometimes!
 
 ### 📫 How to reach me:
 
