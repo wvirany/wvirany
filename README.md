@@ -2,18 +2,20 @@
 
 My name's Walter. Here's a bit about me:
 
-### 🔭 I’m currently working on ...
+### 🌱 I’m currently working on ...
 
 - I'm concurrently completing my M.S. (*2025*) and B.S. (*2024*) at the University of Colorado Boulder
 - I'm studying Applied Mathematics and Computer Science, with a special interest in machine learning
-
-### 🌱 I’m currently learning ...
-
 - I'm diving into deep learning with [d2l.ai](https://d2l.ai/index.html)
 
+### 📌 Featured Repositories:
+
+| [Building a Neural Network from Scratch](https://github.com/wvirany/NeuralNetwork/) | [Machine Learning to Predict Microbiome-Phenotype Associations in the Human Gut](https://github.com/wvirany/microbiome) |
+| :---------: | :---------: |
+|   A neural network class that I implemented from scratch (i.e., no external libraries) for a presentation to the Applied Mathematics department at CU Boulder.    |   Predicting diseases in humans via machine learning from the species present in their gut microbiome. |
 
 
-### ⚡ See some of my work:
+### ⚡ See some of my other work:
 
 - Check out my [personal website](https://wvirany.github.io)
 - I'm also on [Kaggle](https://www.kaggle.com/waltervirany)
