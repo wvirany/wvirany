@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name's Walter. Here's a bit about me:
+
 ### 🔭 I’m currently working on ...
 
 - I'm concurrently completing my M.S. (*2025*) and B.S. (*2024*) at the University of Colorado Boulder
