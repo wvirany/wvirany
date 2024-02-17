@@ -25,6 +25,7 @@ I'm Walter. Here's a bit about me:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/walter-virany/)
 - Shoot me an email! waltervirany@gmail.com
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <!--
 
