@@ -14,6 +14,8 @@ I'm Walter. Here's a bit about me:
 - I'm studying Applied Mathematics and Computer Science, with a special interest in machine learning
 - I'm diving into deep learning with [d2l.ai](https://d2l.ai/index.html)
 
+*For a more up-to-date synopsis of what I'm doing, check out my personal website*
+
 ### ⚡ See some of my other work:
 
 - Check out my [personal website](https://wvirany.github.io)
